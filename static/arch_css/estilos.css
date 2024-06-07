@@ -1,0 +1,20 @@
+.contenedor {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+    padding-right: 10%;
+}
+
+#img-contenido {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+#imagen{
+    width: 50%;
+    height: 60%;
+}
